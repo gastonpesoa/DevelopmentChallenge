@@ -44,7 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\FormaGeometrica.cs" />
+    <Compile Include="Classes\Forma\Circulo.cs" />
+    <Compile Include="Classes\Forma\Cuadrado.cs" />
+    <Compile Include="Classes\Forma\FormaGeometrica.cs" />
+    <Compile Include="Classes\Forma\Rectangulo.cs" />
+    <Compile Include="Classes\Idiomas\Castellano.cs" />
+    <Compile Include="Classes\Idiomas\IIdioma.cs" />
+    <Compile Include="Classes\Idiomas\Ingles.cs" />
+    <Compile Include="Classes\Idiomas\Italiano.cs" />
+    <Compile Include="Classes\Forma\Trapecio.cs" />
+    <Compile Include="Classes\Forma\TrianguloEquilatero.cs" />
+    <Compile Include="Classes\Reporte.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

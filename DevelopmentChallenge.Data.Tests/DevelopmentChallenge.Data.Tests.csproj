@@ -54,8 +54,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReporteDataTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DevelopmentChallenge.Data\DevelopmentChallenge.Data.csproj">
